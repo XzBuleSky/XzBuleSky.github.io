@@ -4,7 +4,7 @@ email: 694188152@qq.com
 description: > # this means to ignore newlines until "baseurl:"
      Jason的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://jason.org # the base hostname & protocol for your site
+url: https://xzzzj.github.io/jason.github.io/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Jason
 
@@ -14,15 +14,15 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: Jason404
-weibo: Jason0830
-github: Jason
-instagram: Jason404
-linkedin: Jason404
+twitter: 无
+weibo: 无
+github: 无
+instagram: 无
+linkedin: 无
 
 # avatar and Favicon
-avatar: http://imgs.jason.org/site-avatar.png
-favicon: http://imgs.jason.org/site-favicon.ico
+avatar: http://imgs.yansu.org/site-avatar.png
+favicon: http://imgs.yansu.org/site-favicon.ico
 
 # disqus config
 disqus:
@@ -31,7 +31,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: jason.org
+  url: https://xzzzj.github.io/jason.github.io/
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
