@@ -4,7 +4,7 @@ email: 694188152@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   Jason的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://xzzzj.github.io/jason.github.io/. # the base hostname & protocol for your site
+url: htpp://xzj.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Su Yan
 
@@ -31,7 +31,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: xzzzj.github.io/jason.github.io/.
+  url: xzj.org
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
