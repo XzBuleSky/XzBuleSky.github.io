@@ -1,12 +1,16 @@
 # Site settings
-title: Jason的博客
-email: 694188152@qq.com
+title: 闫肃的博客
+email: suyan0830@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-     Jason的博客
+  闫肃的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
+<<<<<<< HEAD
 url: https://xzzzj.github.io/jason.github.io/ # the base hostname & protocol for your site
+=======
+url: http://yansu.org # the base hostname & protocol for your site
+>>>>>>> parent of b0847ec... Update _config.yml
 rss_url: /pages/feed.xml
-author: Jason
+author: Su Yan
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,11 +18,19 @@ filter: 'category'
 recent_num: 20
 
 # Social account
+<<<<<<< HEAD
 twitter: 无
 weibo: 无
 github: 无
 instagram: 无
 linkedin: 无
+=======
+twitter: suyan404
+weibo: suyan0830
+github: suyan
+instagram: suyan404
+linkedin: suyan404
+>>>>>>> parent of b0847ec... Update _config.yml
 
 # avatar and Favicon
 avatar: http://imgs.yansu.org/site-avatar.png
@@ -26,12 +38,16 @@ favicon: http://imgs.yansu.org/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: jason-zh
+  shortname: suyan-zh
 
 # google analytics config
 ga:
   id: UA-54767140-1
+<<<<<<< HEAD
   url: https://xzzzj.github.io/jason.github.io/
+=======
+  url: yansu.org
+>>>>>>> parent of b0847ec... Update _config.yml
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
