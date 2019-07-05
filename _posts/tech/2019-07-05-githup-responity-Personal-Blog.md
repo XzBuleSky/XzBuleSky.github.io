@@ -18,7 +18,7 @@ github官网链接：[https://github.com/](https://github.com/)
 ### 创建同账号名的仓库
 
 <center>
-   <img src="https://XzBuleSky.github.io/pages/build-repository.png" alt="创建个人账号">
+   <img src="https://XzBuleSky.github.io/pages/repository.png" alt="创建同名仓库">
 </center>
 
 
