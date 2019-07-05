@@ -11,14 +11,14 @@ description: Githup上搭建关于Jekyll主题的个人博客
 github官网链接：[https://github.com/](https://github.com/)
 
 <center>
-   <img src="https://xzzzj.github.io/pages/githup-auth.png" alt="创建个人账号">
+   <img src="https://XzBuleSky.github.io/pages/githup-auth.png" alt="创建个人账号">
 </center>
 
 
 ### 创建同账号名的仓库
 
 <center>
-   <img src="https://xzzzj.github.io/pages/build-repository.png" alt="创建个人账号">
+   <img src="https://XzBuleSky.github.io/pages/build-repository.png" alt="创建个人账号">
 </center>
 
 
@@ -31,7 +31,7 @@ github官网链接：[https://github.com/](https://github.com/)
 Jekyll主题网站：[http://jekyllthemes.org/](http://jekyllthemes.org/)
 
 <center>
-   <img src="https://xzzzj.github.io/pages/jekyll.png" alt="Jekyll主题网站">
+   <img src="https://XzBuleSky.github.io/pages/jekyll.png" alt="Jekyll主题网站">
 </center>
 点击自己喜欢的主题页面进行下载。
 <center>
