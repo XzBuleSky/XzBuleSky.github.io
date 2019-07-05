@@ -2,7 +2,7 @@
 layout: post
 title: Githup搭建+Jekyll主题个人博客
 category: 技术
-tags: [Blog]
+tags: Blog
 keywords: githup,blog,Jekyll
 description: Githup上搭建关于Jekyll主题的个人博客
 ---
