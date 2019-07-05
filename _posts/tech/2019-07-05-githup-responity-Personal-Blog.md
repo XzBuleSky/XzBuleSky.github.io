@@ -23,7 +23,11 @@ github官网链接：[https://github.com/](https://github.com/)
 
 ### 搜索Jekyll相关主题
 
+Jekyll主题网站：[http://jekyllthemes.org/](http://jekyllthemes.org/)
 
+<center>
+   <img src="https://xzzzj.github.io/pages/jekyll.png" alt="Jekyll主题网站">
+</center>
 
 ### 上传Jekyll主题至github仓库中
 
