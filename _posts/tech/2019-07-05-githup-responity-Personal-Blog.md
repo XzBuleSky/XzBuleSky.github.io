@@ -51,4 +51,9 @@ git push https://xxxj.repolist.op
         asdasdas
     asdjqw
     
+```bash
+<?hh
+phpinfo();
+```
+
 ### 设置
