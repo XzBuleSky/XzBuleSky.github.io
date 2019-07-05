@@ -8,7 +8,7 @@ description: Githup上搭建关于Jekyll主题的个人博客
 ---
 ### 创建个人Githup账号
 
-githup官网链接：![https://github.com/](https://github.com/)
+githup官网链接：[https://github.com/](https://github.com/)
 
 <center>
    <img src="https://xzzzj.github.io/pages/githup-auth.png" alt="创建个人账号">
