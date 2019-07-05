@@ -7,11 +7,17 @@ keywords: githup,blog,Jekyll
 description: Githup上搭建关于Jekyll主题的个人博客
 ---
 ### 创建个人Githup账号
+
+githup官网链接：
+
 <center>
    <img src="https://xzzzj.github.io/pages/githup-auth.png" alt="创建个人账号">
 </center>
 
+
 ### 创建同账号名的账号
+
+
 ### 搜索Jekyll相关主题
 
 ### 上传Jekyll主题至githup仓库中
