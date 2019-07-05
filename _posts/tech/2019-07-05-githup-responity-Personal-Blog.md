@@ -39,5 +39,8 @@ Jekyll主题网站：[http://jekyllthemes.org/](http://jekyllthemes.org/)
 </center>
 
 ### 上传Jekyll主题至github仓库中
+```bash
+git push https://xxxj.repolist.op
 
+```
 ### 设置
